@@ -68,4 +68,4 @@ I am student from Ukraine<img src="https://media.giphy.com/media/JsVzj7STYnTmpXG
   </tr>
 </table>
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=AmelAbema)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=amelabema.amelabema)
