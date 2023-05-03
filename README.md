@@ -69,12 +69,8 @@ I am student from Ukraine<img src="https://media.giphy.com/media/JsVzj7STYnTmpXG
     <td>
       <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=AmelAbema&theme=dark&background=000000" alt="javaDev's Github stats" />
     </td>
-    <td>
-      <div>
-      [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-        </div>
-    </td>
+    
   </tr> 
 </table>
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amelabema&layout=compact)](https://github.com/amelabema/github-readme-stats)
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=amelabema&labelColor=%23697689&countColor=%23ba68c8)
