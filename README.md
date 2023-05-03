@@ -67,7 +67,7 @@ I am student from Ukraine<img src="https://media.giphy.com/media/JsVzj7STYnTmpXG
 <table>
   <tr>
     <td>
-      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=AmelAbema&theme=dark&background=000000" alt="javaDev's Github stats" />
+      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=AmelAbema&theme=dark" alt="javaDev's Github stats" />
     </td>
     <td>
       <img align="right" height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amelabema&layout=compact&theme=dark" alt="language stats" />
