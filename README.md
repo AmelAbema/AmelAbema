@@ -72,7 +72,7 @@ I am student from Ukraine<img src="https://media.giphy.com/media/JsVzj7STYnTmpXG
     <td>
       <img height="195px" align="right" alt="javaDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AmelAbema&layout=compact&theme=vision-friendly-dark" />
     </td>
-  </tr>
+  </tr> 
 </table>
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=amelabema&labelColor=%23697689&countColor=%23ba68c8)
