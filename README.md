@@ -1,9 +1,9 @@
 # Hi, I am AmelAbema!
 
 <div>
-  <img src="https://media.giphy.com/media/pNN1wkWBfBhOt4txUP/giphy.gif" width="250px" align="left"> <br><br>
+  <img src="https://media.giphy.com/media/pNN1wkWBfBhOt4txUP/giphy.gif" width="250px" align="left"> 
   <a href="https://thicc-thighs.de/" >
-   <img src="https://lanyard-profile-readme.vercel.app/api/433690672910827543?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else..."  />
+   <img src="https://lanyard-profile-readme.vercel.app/api/433690672910827543?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else..."  align="center"/>
 </div>
 
 ---
