@@ -5,7 +5,7 @@
   <img src="https://media.giphy.com/media/pNN1wkWBfBhOt4txUP/giphy.gif" width="250px">
   
   <a href="https://discordapp.com/users/390569134724874241" >
-   <img src="https://lanyard-profile-readme.vercel.app/api/390569134724874241?theme=dark&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else..." />
+   <img src="https://lanyard-profile-readme.vercel.app/api/390569134724874241?theme=dark&bg=#780cad&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else..." />
 </div>
 
 ---
