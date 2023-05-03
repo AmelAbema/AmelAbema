@@ -70,7 +70,7 @@ I am student from Ukraine<img src="https://media.giphy.com/media/JsVzj7STYnTmpXG
       <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=AmelAbema&theme=dark&background=000000" alt="javaDev's Github stats" />
     </td>
     <td>
-      <img align="right" width="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amelabema&layout=compact" alt="language stats" />
+      <img align="right" width="295" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amelabema&layout=compact" alt="language stats" />
     </td>
   </tr> 
 </table>
