@@ -54,11 +54,11 @@ I am student from Ukraine<img src="https://media.giphy.com/media/JsVzj7STYnTmpXG
 
 ---
 
-### 💻 Codewars:
+### ♨️ Codewars:
 
 ![codewars](https://www.codewars.com/users/AmelAbema/badges/large)
 
-### 💻 LeetCode:
+### ⚡ LeetCode:
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/AmelAbema?theme=dark&font=Baloo%202&ext=heatmap)
 
