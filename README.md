@@ -1,11 +1,12 @@
 # Hi, I am AmelAbema!
-<head>
-<div>
-  <img src="https://media.giphy.com/media/pNN1wkWBfBhOt4txUP/giphy.gif" width="250px" align="left"> 
+
+<div align="center">
+  <img src="https://media.giphy.com/media/pNN1wkWBfBhOt4txUP/giphy.gif" width="250px" align="left">
+  
   <a href="https://discordapp.com/users/390569134724874241" >
    <img src="https://lanyard-profile-readme.vercel.app/api/433690672910827543?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else..."  align="right"/>
 </div>
-</head>
+
 ---
 
 ### :man_technologist: About me:
