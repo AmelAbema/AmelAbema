@@ -11,7 +11,7 @@ I am student from Ukraine<img src="https://media.giphy.com/media/JsVzj7STYnTmpXG
 
 - :seedling: Completed courses on Java development Hillel!
 
-- :mailbox: How to contact me: [![Telegram Badge](https://img.shields.io/badge/-AmelAbema-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Bloodlessdeath) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:dogormous14@gmail.com)
+- :mailbox: How to contact me: [![Telegram Badge](https://img.shields.io/badge/-AmelAbema-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Bloodlessdeath) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:dogormous14@gmail.com)[![Telegram Badge](https://img.shields.io/badge/-abema-purple?style=flat&logo=Discord&logoColor=white)](https://discordapp.com/users/390569134724874241)
 
 ---
 
