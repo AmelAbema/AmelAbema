@@ -60,7 +60,7 @@ I am student from Ukraine<img src="https://media.giphy.com/media/JsVzj7STYnTmpXG
 
 ### ⚡ LeetCode:
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/AmelAbema?theme=dark&font=Baloo%202&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/AmelAbema?theme=wtf&font=Fira%20Sans%20Condensed)
 
 ### ⚙️ GitHub statistics:
 
