@@ -12,11 +12,11 @@
 
 ### :man_technologist: About me:
 
-I am student from Ukraine<img src="https://media.giphy.com/media/JsVzj7STYnTmpXGVdu/giphy.gif" width="30px"> and studying at PJATK University (Warsaw, PL<img src="https://media.giphy.com/media/LSia5mLwnZBNxyCVPy/giphy.gif" width="30px">) on Computer Scince. I am beginner Java Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. My way to IT started from STEP IT School, where I took an intensive course, but didn't get into the main course. After the intensive, there was a gap of a couple of months, where I tried myself in many directions, tried to learn the C/C++ language, Python and Java, tried my hand at data science, but most of all I was hooked by Java Development!
+I am student from Ukraine<img src="https://media.giphy.com/media/JsVzj7STYnTmpXGVdu/giphy.gif" width="30px"> and studying at PJATK University (Warsaw, PL<img src="https://media.giphy.com/media/LSia5mLwnZBNxyCVPy/giphy.gif" width="30px">) on Computer Scince. I am beginner Java Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. My way to IT started from STEP IT School, where I took an intensive course, but didn't get into the main course. After the intensive, there was a gap of a couple of months, where I tried myself in many directions, tried to learn the C/C++ language, Python and Java, tried my hand at data science, but most of all I was hooked by Java Development and then Golang!
 
-- :telescope: Participated in the IT Olympiad from the STEP Academy.
+- :telescope: Participated in many IT Olympiads.
 
-- :seedling: Completed courses on Java development Hillel!
+- :seedling: Completed courses on Boot.Dev platform (backend developer)!
 
 - :mailbox: How to contact me: [![Telegram Badge](https://img.shields.io/badge/-AmelAbema-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Bloodlessdeath) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:dogormous14@gmail.com) [![Gmail Badge](https://img.shields.io/badge/-abema-purple?style=flat&logo=Discord&logoColor=white)](https://discordapp.com/users/390569134724874241)
 
