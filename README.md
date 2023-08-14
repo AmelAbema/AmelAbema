@@ -76,5 +76,6 @@ I am student from Ukraine<img src="https://media.giphy.com/media/JsVzj7STYnTmpXG
     </td>
   </tr> 
 </table>
-  
+<!---
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=amelabema&labelColor=%23697689&countColor=%23ba68c8)
+--->
