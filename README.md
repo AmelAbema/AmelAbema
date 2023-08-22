@@ -1,5 +1,5 @@
 <h1 align="center">~ 💎 𝙃𝙞, 𝙄 𝙖𝙢 𝘼𝙢𝙚𝙡𝘼𝙗𝙚𝙢𝙖! 💎 ~</h1>
-<h2 align="center"> 📍 𝕎𝕖𝕝𝕔𝕠𝕞𝕖 𝕥𝕠 𝕞𝕪 ℙ𝕣𝕠𝕗𝕚𝕝𝕖! 📍 </h2>
+<h2 align="center"> 📍 𝕎𝕖𝕝𝕔𝕠𝕞𝕖 𝕥𝕠 𝕞𝕪 ℙ𝕣𝕠𝕗𝕚𝕝𝕖! 📍 </h2> 
 
 <div align="center">
   <img src="https://media.giphy.com/media/pNN1wkWBfBhOt4txUP/giphy.gif" width="250px">
